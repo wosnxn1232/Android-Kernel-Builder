@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "bxsj-KernelSU-Proton-release",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "cmi-r-oss",
-      "device": "cmi",
-      "defconfig": "cmi_user_defconfig"
+      "name": "KernelSU-Proton-release",
+      "repo": "https://github.com/BreezeQing/kernel_xiaomi_sm8350-miui.git",
+      "branch": "miui-t",
+      "device": "star",
+      "defconfig": "stars_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -16,7 +16,7 @@
         "binPath": ["bin"]
       }
     ],
-    "ccache": false,
+    "ccache": true,
     "params": {
       "ARCH": "arm64",
       "CC": "proton-clang/bin/clang",
@@ -37,8 +37,8 @@
       }
     },
     "AnyKernel3": {
-      "use": true,
-      "release": true,
+      "use": false,
+      "release": false,
       "repo": "https://github.com/wdnmdkiki/AnyKernel3/",
       "branch": "cmi"
     }
