@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "KernelSU-Proton-release",
-      "repo": "https://github.com/BreezeQing/kernel_xiaomi_sm8350-miui.git",
-      "branch": "miui-t",
+      "repo": "https://github.com/BreezeQing/D8G_Kernel_SM8350.git",
+      "branch": "13",
       "device": "star",
-      "defconfig": "stars_defconfig"
+      "defconfig": "star_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
