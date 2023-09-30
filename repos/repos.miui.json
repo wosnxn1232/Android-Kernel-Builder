@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "KernelSU-Proton-release",
       "repo": "https://github.com/BreezeQing/D8G_Kernel_SM8350.git",
-      "branch": "13",
+      "branch": "star",
       "device": "star",
-      "defconfig": "vili_defconfig"
+      "defconfig": "star-qgki_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
