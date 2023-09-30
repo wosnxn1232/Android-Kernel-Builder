@@ -5,7 +5,7 @@
       "repo": "https://github.com/BreezeQing/D8G_Kernel_SM8350.git",
       "branch": "13",
       "device": "star",
-      "defconfig": "vili_defconfig"
+      "defconfig": "star_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
