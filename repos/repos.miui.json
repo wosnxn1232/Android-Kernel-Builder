@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "KernelSU-Proton-release",
       "repo": "https://github.com/BreezeQing/android_kernel_xiaomi_star.git",
-      "branch": "main",
+      "branch": "lineage-20",
       "device": "star",
       "defconfig": "star_defconfig"
     },
