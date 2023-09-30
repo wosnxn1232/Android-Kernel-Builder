@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "KernelSU-Proton-release",
-      "repo": "https://github.com/BreezeQing/D8G_Kernel_SM8350.git",
-      "branch": "13",
+      "repo": "https://github.com/498110811/xiaomi11-miui.git",
+      "branch": "xiaomi11",
       "device": "star",
       "defconfig": "star_defconfig"
     },
