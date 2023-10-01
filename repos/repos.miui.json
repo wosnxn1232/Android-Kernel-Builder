@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "KernelSU-Proton-release",
-      "repo": "https://github.com/BreezeQing/android_kernel_xiaomi_star.git",
-      "branch": "lineage-20",
-      "device": "star",
-      "defconfig": "star_defconfig"
+      "repo": "https://github.com/wosnxn1232/android_kernel_xiaomi_mt6785.git",
+      "branch": "13",
+      "device": "begonia",
+      "defconfig": "begonia_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
