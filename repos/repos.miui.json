@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "KernelSU-Proton-release",
+      "name": "Redmi-KernelSU-Proton-release",
       "repo": "https://github.com/wosnxn1232/android_kernel_xiaomi_mt6785.git",
       "branch": "13",
       "device": "begonia",
